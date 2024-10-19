@@ -33,7 +33,7 @@ Websites with infinite scrolling load additional content dynamically as you scro
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ajio-infinite-scroll.git
+    git clone https://github.com/arya-io/ajio-infinite-scroll.git
     cd ajio-infinite-scroll
     ```
 
